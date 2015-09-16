@@ -5,8 +5,7 @@ Kansas City Women in Technology is a community intended to grow the number of wo
 We are dedicated to providing a harassment-free community.  We will not tolerate the following in our community:
 - Offensive comments related to gender, gender identity and expression, sexual orientation, race, religion, physical appearance, body size, and/or disability
 - Use of sexual language or imagery at any time
-- Harassing photog
-- raphy or recording
+- Harassing photography or recording
 - Sustained disruption of talks or events
 - Deliberate intimidation, stalking or following
 - Inappropriate physical contact
