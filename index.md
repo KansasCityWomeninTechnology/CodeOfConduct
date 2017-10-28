@@ -27,7 +27,7 @@ We expect all community members to be respectful of others, their time, and reso
 
 Reporting
 ---------
-If you feel unsafe or unwelcome, or notice that someone else is being harassed, please report it as soon as possible.  You can make a report by [contacting us](http://kcwomenintech.org/contact/) or speaking with one of the organizers of the event you are attending.
+If you feel unsafe or unwelcome, or notice that someone else is being harassed, please report it as soon as possible.  You can make a report by submitting information through our [incident report form](https://goo.gl/forms/kwKWePwxw2kG9ibC2), sending and email to [coc@kcwomenintech.org](mailto:coc@kcwomenintech.org), or speaking with one of the organizers of the event you are attending.
  
 We expect event organizers and volunteers to be alert and take appropriate action to intervene in preventing or stopping harassment and unacceptable behavior. 
 
