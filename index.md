@@ -11,7 +11,7 @@ We are dedicated to providing a harassment-free community.  We will not tolerate
 
 Harassment includes: 
 --------------------
-- Offensive comments related to gender, gender identity and expression, sexual orientation, race, religion, physical appearance, body size, mental illness and/or disability
+- Offensive comments related to gender, gender identity and expression, sexual orientation, race, ethnicity, nationality, religion, physical appearance, age, body size, mental illness and/or disability
 - Threats of violence
 - Use of sexual language or imagery at any time
 - Harassing photography or recording
