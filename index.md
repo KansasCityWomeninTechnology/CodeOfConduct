@@ -17,7 +17,6 @@ Harassment includes:
 - Harassing photography or recording
 - Sustained disruption of talks or events
 - Deliberate intimidation, stalking or following
-- Threats of violence
 - Inappropriate physical contact
 - Unwelcome sexual attention
 - Unwelcome comments regarding a person's lifestyle choices and practices
